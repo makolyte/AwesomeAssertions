@@ -19,6 +19,25 @@ drop-in replacement without having to fear any license violations by accidentall
 Please do not expect updates to this fork, as I cannot commit to maintaining it in the future. I will do my best to
 review and merge critical PRs if required and to release new versions of AwesomeAssertions as needed.
 
+## Automatic replacement using Renovate Bot
+
+If you are using Renovate Bot, you can automatically replace FluentAssertions with AwesomeAssertions by adding the
+following rule to your `renovate.json`:
+
+```json
+{
+  "packageRules": [
+    {
+      "matchPackageNames": ["FluentAssertions"],
+      "replacementName": "AwesomeAssertions",
+      "replacementVersion": "7.0.0"
+    }
+  ]
+}
+```
+
+Renovate will then open PRs to replace FluentAssertions with AwesomeAssertions where applicable.
+
 ## Acknowledgements
 
 This was made possible by the hard work and dedication of the original authors and more than 200 contributors of
