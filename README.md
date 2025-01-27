@@ -1,13 +1,17 @@
 # A fork of FluentAssertions controlled by the community
 
+[![](https://img.shields.io/github/actions/workflow/status/AwesomeAssertions/AwesomeAssertions/build.yml?branch=main)](https://github.com/AwesomeAssertions/AwesomeAssertions/actions?query=branch%3Amain)
+[![Coveralls branch](https://img.shields.io/coverallsCoverage/github/AwesomeAssertions/AwesomeAssertions?branch=main)](https://coveralls.io/github/AwesomeAssertions/AwesomeAssertions?branch=main)
 [![](https://img.shields.io/github/release/AwesomeAssertions/AwesomeAssertions.svg?label=latest%20release&color=007edf)](https://github.com/AwesomeAssertions/AwesomeAssertions/releases/latest)
 [![](https://img.shields.io/nuget/dt/AwesomeAssertions.svg?label=downloads&color=007edf&logo=nuget)](https://www.nuget.org/packages/AwesomeAssertions)
 [![](https://img.shields.io/librariesio/dependents/nuget/AwesomeAssertions.svg?label=dependent%20libraries)](https://libraries.io/nuget/AwesomeAssertions)
 [![GitHub Repo stars](https://img.shields.io/github/stars/AwesomeAssertions/AwesomeAssertions)](https://github.com/AwesomeAssertions/AwesomeAssertions/stargazers)
-[![GitHub contributors](https://img.shields.io/github/contributors/AwesomeAssertions/AwesomeAssertions)](https://github.com/AwesomeAssertions/AwesomeAssertions/graphs/contributors)
+[![GitHub contributors](https://img.shields.io/github/contributors/AwesomeAssertions/AwesomeAssertions)](https://github.com/fluentassertions/AwesomeAssertions/graphs/contributors)
 [![GitHub last commit](https://img.shields.io/github/last-commit/AwesomeAssertions/AwesomeAssertions)](https://github.com/AwesomeAssertions/AwesomeAssertions)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AwesomeAssertions/AwesomeAssertions)](https://github.com/AwesomeAssertions/AwesomeAssertions/graphs/commit-activity)
 [![open issues](https://img.shields.io/github/issues/AwesomeAssertions/AwesomeAssertions)](https://github.com/AwesomeAssertions/AwesomeAssertions/issues)
+![](https://img.shields.io/badge/release%20strategy-githubflow-orange.svg)
+
 
 ## By the community, for the community
 
