@@ -1,6 +1,6 @@
 <img src="docs/assets/images/awesomeassertions-banner-responsive.svg" width="40%" />
 
-# A fork of FluentAssertions controlled by the community
+# A fork of a fork of FluentAssertions controlled by the community
 
 [![](https://img.shields.io/github/actions/workflow/status/AwesomeAssertions/AwesomeAssertions/build.yml?branch=main)](https://github.com/AwesomeAssertions/AwesomeAssertions/actions?query=branch%3Amain)
 [![Coveralls branch](https://img.shields.io/coverallsCoverage/github/AwesomeAssertions/AwesomeAssertions?branch=main)](https://coveralls.io/github/AwesomeAssertions/AwesomeAssertions?branch=main)
