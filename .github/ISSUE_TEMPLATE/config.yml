@@ -1,8 +1,0 @@
-blank_issues_enabled: true
-contact_links:
-  - name: 📚 Documentation
-    url: https://fluentassertions.com/introduction/
-    about: Read our comprehensive documentation.
-  - name: 💬 Ask on Stack Overflow
-    url: https://stackoverflow.com/questions/tagged/fluent-assertions
-    about: The best place for asking general purpose questions.
